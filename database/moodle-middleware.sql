@@ -38,7 +38,7 @@ CREATE TABLE `moodles` (
 
 LOCK TABLES `moodles` WRITE;
 /*!40000 ALTER TABLE `moodles` DISABLE KEYS */;
-INSERT INTO `moodles` (`moodle_id`, `host`, `token`) VALUES (1,'http://moodle-86129-382393.cloudwaysapps.com','XXXXXXXXXXXXXXXXXXXXXXXXXXX');
+INSERT INTO `moodles` (`moodle_id`, `host`, `token`) VALUES (1,'http://moodle-86129-382393.cloudwaysapps.com','3b90a2582e29b7e3b12a21c15cf8c622');
 /*!40000 ALTER TABLE `moodles` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

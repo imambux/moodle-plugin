@@ -1,0 +1,6 @@
+COURSE_GET_CONTENTS = "core_course_get_contents"
+COURSE_GET_COURSES = "core_course_get_courses"
+COURSE_SEARCH_COURSES = "core_course_search_courses"
+COURSE_CHECK_UPDATES = "core_course_check_updates"
+CALENDAR_GET_CALENDAR_EVENTS = "core_calendar_get_calendar_events"
+ENROL_GET_ENROLLED_USERS = "core_enrol_get_enrolled_users"
