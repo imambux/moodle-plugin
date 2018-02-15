@@ -1,7 +1,7 @@
 # A Python built Middleware for Moodle Web services
 >Lightweight client for Moodle REST web services
 
-[![Moodle Plugin Directory](http://img.shields.io/badge/moodle-plugin-orange.svg)](https://localhost:5001)
+[![Moodle Plugin Directory](http://img.shields.io/badge/moodle-plugin-orange.svg)](http://localhost:5001)
 
 ## Requirements
 
@@ -36,7 +36,7 @@ Login to your moodle, go to `Site administration -> Plugins -> Web services -> O
     - Linux
     
             ./start.sh
-        - App runs on Gunicorn Server at "http://localhost:5001"*
+        - App runs on Gunicorn Server at "http://localhost:5001"
 
 ## Usage
 Refer to this [documentation](documentation/API%20Documentation.odt) for api calls.
